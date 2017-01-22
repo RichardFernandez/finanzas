@@ -1,0 +1,13 @@
+{
+    "name": "richard/finanzas",
+    "description": "proyecto para control de finanzas",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricardo Fernandez",
+            "email": "ricardo@homogenea.marketing"
+        }
+    ],
+    "require": {}
+}
