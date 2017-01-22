@@ -9,5 +9,10 @@
             "email": "ricardo@homogenea.marketing"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "FinanzasPHP\\":"src/"
+        }
+    }
 }
